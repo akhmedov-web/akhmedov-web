@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Shohbaxt+Ahmedov;+Welcome+to+My+Profile!;Over+1+years+of+programming+experience;Live+in+Uzbekistan;Always+learning+new+things+;Junior+Full+Stack+Developer)](https://git.io/typing-svg)
 
-[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello_Developers-Welcome-gold.svg?style=flat&logo=github)](https://github.com/akhmedov-web) [![Profile](https://Visitor-badge.glitch.me/badge?page_id=akhmedov-web.profileviews-badge)](https://github.com/akhmedov-web) [![Followers](https://img.shields.io/github/followers/akhmedov-web?style=social)](https://github.com/akhmedov-web?tab=followers) [![Open Source Love]
+[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello_Developers-Welcome-gold.svg?style=flat&logo=github)](https://github.com/akhmedov-web) [![Profile](https://Visitor-badge.glitch.me/badge?page_id=akhmedov-web.profileviews-badge)](https://github.com/akhmedov-web) [![Followers](https://img.shields.io/github/followers/akhmedov-web?style=social)](https://github.com/akhmedov-web?tab=followers)
 
 ##
 
