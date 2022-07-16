@@ -1,16 +1,18 @@
-### Hi there 👋
+# Assalomu alaykum va rahmatullohu va barakatuh!!!!
 
-<!--
-**akhmedov-web/akhmedov-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Shohbaxt Ahmedov, Junior Web Developer. 
+### +998906701606 
 
-Here are some ideas to get you started:
+<a href="https://shohbaxt.netlify.app/" > <h2> My Web site    :)</h2></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<a href="https://www.instagram.com/akhmedov_code" > <h2> My instagram page :)</h2></a>
+
+<a href="https://www.facebook.com/shohbaxt.ahmedov/" > <h2> My facebook page  :)</h2></a>
+
+<a href="https://t.me/akhmedov_blogs/" > <h2> My telegram page  :)</h2></a>
+
+
+[![Ahmedov Shohbaxt's github stats](https://github-readme-stats.vercel.app/api?username=akhmedov-web)](https://github.com/akhmedov-web/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhmedov-web)
