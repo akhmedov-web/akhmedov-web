@@ -7,7 +7,7 @@
 
 **📫 How to Reach me:**
 
-<a href="https://www.instagram.com/akhmedov_code/"> <img src="https://img.icons8.com/fluent/48/000000/instagram.png" width="50px"/> </a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/akhmedov_code/"> <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="50px"/> </a>&nbsp;&nbsp;
 <a href="https://facebook.com/shohbaxt.ahmedov"> <img src="https://img.icons8.com/fluency/48/000000/facebook.png" width="50px"/> </a>&nbsp;&nbsp;
 <a href="https://t.me/akhmedov_blogs"> <img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" width="50px"/> </a>&nbsp;&nbsp;
 
