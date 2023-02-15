@@ -38,6 +38,3 @@
 [![akhmedov-web's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhmedov-web&show_icons=true&theme=vue)](https://github.com/akhmedov-web/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhmedov-web&langs_count=8&theme=vue)](https://github.com/akhmedov-web/github-readme-stats) 
-
-### 📈 GitHub Activity Graph:
-[![akhmedov-web's github activity graph](https://activity-graph.herokuapp.com/graph?username=akhmedov-web&theme=react-dark)](https://github.com/akhmedov-web/github-readme-activity-graph)
